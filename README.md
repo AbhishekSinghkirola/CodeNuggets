@@ -13,7 +13,6 @@
       <p>
          A Hex color generator in JS is a program that generates random colors using the Hexadecimal color code format. It uses JavaScript to create and manipulate               colors, providing an interactive and dynamic user experience.
       </p>
-      <img src="https://user-images.githubusercontent.com/100200440/231085263-c61cf517-684b-41e1-bfbe-d1e50effa38f.gif" alt="pig game js snapshot" width="300px">
+      <img src="https://user-images.githubusercontent.com/100200440/231086047-2f9431cf-935e-435f-bcbc-72d10c2f6582.gif" alt="Hex Color Generator js gif" width="300px">
   </dd>
  </dl>
-
