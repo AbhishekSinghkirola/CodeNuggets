@@ -7,6 +7,13 @@
       </p>
       <img src="https://user-images.githubusercontent.com/100200440/230790521-084788bd-6719-45fa-accd-5e55d0620640.png" alt="pig game js snapshot" width="300px">
   </dd>
+  
+   <dt><h3>2.  <a href="https://code-nuggets-hex-color-generator.netlify.app/" target="_blank">Hex Color Generator</a> </h3></dt>
+  <dd> 
+      <p>
+         A Hex color generator in JS is a program that generates random colors using the Hexadecimal color code format. It uses JavaScript to create and manipulate               colors, providing an interactive and dynamic user experience.
+      </p>
+      <img src="https://user-images.githubusercontent.com/100200440/231085263-c61cf517-684b-41e1-bfbe-d1e50effa38f.gif" alt="pig game js snapshot" width="300px">
+  </dd>
  </dl>
-
 
